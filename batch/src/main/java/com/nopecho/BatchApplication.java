@@ -1,4 +1,4 @@
-package com.nopecho.batch;
+package com.nopecho;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
